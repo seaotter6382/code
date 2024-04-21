@@ -1,1 +1,2 @@
-to clone this, you can use *git clone seaotter6382/code*, and to clone specific folders, you just add that into the command. For example, if you want to only clone the python folder you can do *git clone seaotter6382/code/python* 
+to clone this, you use:
+*git clone https://github.com/seaotter6382/code*
