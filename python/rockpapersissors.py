@@ -11,4 +11,9 @@ while True:
   break
   
 computerchose = random.randint(1, 3)
-# working on it
+
+if computerchose == 1:
+  if word == 1:
+    print("Tied the game!")
+  if word == 2:
+    #working on it
