@@ -14,6 +14,23 @@ computerchose = random.randint(1, 3)
 
 if computerchose == 1:
   if word == 1:
-    print("Tied the game!")
+    print("tied the game!")
   if word == 2:
-    #working on it
+    print("player won the game!")
+  if word == 3:
+    print("computer won the game!")
+if computerchose == 2:
+  if word == 1:
+    print("computer won the game!!")
+  if word == 2:
+    print("tied the game!")
+  if word == 3:
+    print("player won the game!")
+if computerchose == 3:
+  if word == 1:
+    print("player won the game!")
+  if word == 2:
+    print("computer won the game!")
+  if word == 3:
+    print("tied the game!")
+
