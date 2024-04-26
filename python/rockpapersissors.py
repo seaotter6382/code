@@ -14,23 +14,41 @@ computerchose = random.randint(1, 3)
 
 if computerchose == 1:
   if word == 1:
+    print("comptuer chose rock!")
+    time.sleep(1)
     print("tied the game!")
   if word == 2:
+    print("comptuer chose rock!")
+    time.sleep(1)
     print("player won the game!")
   if word == 3:
+    print("comptuer chose rock!")
+    time.sleep(1)
     print("computer won the game!")
 if computerchose == 2:
   if word == 1:
+    print("comptuer chose paper!")
+    time.sleep(1)
     print("computer won the game!!")
   if word == 2:
+    print("comptuer chose paper!")
+    time.sleep(1)
     print("tied the game!")
   if word == 3:
+    print("comptuer chose paper!")
+    time.sleep(1)
     print("player won the game!")
 if computerchose == 3:
   if word == 1:
+    print("computer chose sissors!")
+    time.sleep(1)
     print("player won the game!")
   if word == 2:
+    print("computer chose sissors!")
+    time.sleep(1)
     print("computer won the game!")
   if word == 3:
+    print("computer chose sissors!")
+    time.sleep(1)
     print("tied the game!")
 
