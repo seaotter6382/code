@@ -6,5 +6,4 @@ read target
 
 while true; do
   ping -c 1 $target
-  sleep $delay
 done
