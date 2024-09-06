@@ -1,0 +1,1 @@
+g++ <file_name> -o <product_name>

@@ -1,0 +1,1 @@
+g++ -o <destination_name> <file_name> -framework OpenGL -framework GLUT -DGL_SILENCE_DEPRECATION\n
